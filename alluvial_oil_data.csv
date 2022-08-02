@@ -1,0 +1,53 @@
+Source,Group,Stressor,StressorOrder,StressorLong,Impact,Certainty of effect,Temporal extent,Spatial extent,Count
+Transport,1,Collisions,1Collisions,Animal-ship collisions,abundance,Probable,0Seconds,2Regional,1
+,1,ContamMobile,1ContamMobile,Contaminant mobilization from sediments,abundance,Probable,5Decades,5Site,1
+,1,ContamMobile,1ContamMobile,Contaminant mobilization from sediments,health,Probable,5Decades,5Site,1
+,1,ContamMobile,1ContamMobile,Contaminant mobilization from sediments,quality,Probable,5Decades,5Site,1
+,1,HabitatLoss,1HabitatLoss,Habitat loss,abundance,Certain,5Decades,5Site,1
+,1,HabitatLoss,1HabitatLoss,Habitat loss,displacement,Certain,5Decades,5Site,1
+,1,Sediment,1Sediment,Sediment re-suspension,abundance,Certain,3Days-Months,3Local-Regional,1
+,1,Sediment,1Sediment,Sediment re-suspension,catchability,Certain,3Days-Months,3Local-Regional,1
+,1,Sediment,1Sediment,Sediment re-suspension,displacement,Certain,3Days-Months,3Local-Regional,1
+,1,Sediment,1Sediment,Sediment re-suspension,quality,Certain,3Days-Months,3Local-Regional,1
+,1,Shading,1Shading,Shading,abundance,Certain,5Decades,5Site,1
+,1,Shading,1Shading,Shading,displacement,Certain,5Decades,5Site,1
+,1,Wake,1Wake,Wake generation,abundance,Certain,6Millenia,4Local,1
+,1,Wake,1Wake,Wake generation,displacement,Certain,6Millenia,4Local,1
+,1,Wake,1Wake,Wake generation,quality,Certain,6Millenia,4Local,1
+Production & Transport,2,Acoustic,2Acoustic,Acoustic pollution,abundance,Certain,1Hours,2Regional,1
+Production & Transport,2,Acoustic,2Acoustic,Acoustic pollution,displacement,Certain,1Hours,2Regional,1
+Production & Transport,2,Acoustic,2Acoustic,Acoustic pollution,quality,Certain,1Hours,2Regional,1
+Production & Transport,2,Deposition,2Deposition,Atmospheric deposition of products & by-products,health,Certain,5Decades,3Local-Regional,1
+,2,Effluent,2Effluent,Effluent emissions,abundance,Certain,5Decades,4Local,1
+,2,Effluent,2Effluent,Effluent emissions,quality,Certain,5Decades,4Local,1
+,2,InvasiveSpecies,2InvasiveSpecies,Non-indigenous species introduction,abundance,Probable,5Decades,2Regional,1
+,2,InvasiveSpecies,2InvasiveSpecies,Non-indigenous species introduction,catchability,Probable,5Decades,2Regional,1
+,2,InvasiveSpecies,2InvasiveSpecies,Non-indigenous species introduction,displacement,Probable,5Decades,2Regional,1
+,2,InvasiveSpecies,2InvasiveSpecies,Non-indigenous species introduction,quality,Probable,5Decades,2Regional,1
+,2,LightPollution,2LightPollution,Light pollution,catchability,Certain,5Decades,4Local,1
+,2,LightPollution,2LightPollution,Light pollution,displacement,Certain,5Decades,4Local,1
+Production & Transport,3,ChemicalResponse,3ChemicalResponse,Chemical spill response,abundance,Probable,3Days-Years,2Regional,1
+,3,ChemicalResponse,3ChemicalResponse,Chemical spill response,health,Probable,3Days-Years,2Regional,1
+,3,ChemicalResponse,3ChemicalResponse,Chemical spill response,quality,Probable,3Days-Years,2Regional,1
+,3,MechResponse,3MechResponse,Mechanical spill response,abundance,Probable,4Days-Decades,4Local,1
+,3,MechResponse,3MechResponse,Mechanical spill response,displacement,Probable,4Days-Decades,4Local,1
+,3,OilExposureSpill,3OilExposureSpill,Oil exposure from spill event,abundance,Probable,4Days-Decades,2Regional,1
+,3,OilExposureSpill,3OilExposureSpill,Oil exposure from spill event,health,Probable,4Days-Decades,2Regional,1
+,3,OilExposureSpill,3OilExposureSpill,Oil exposure from spill event,quality,Probable,4Days-Decades,2Regional,1
+,3,OperationalSpill,3OperationalSpill,Oil exposure from operational spillage,abundance,Probable,2Days-Weeks,4Local,1
+,3,OperationalSpill,3OperationalSpill,Oil exposure from operational spillage,health,Probable,2Days-Weeks,4Local,1
+,3,OperationalSpill,3OperationalSpill,Oil exposure from operational spillage,quality,Probable,2Days-Weeks,4Local,1
+All phases,4,(GHG) Acid,4(GHG) Acid,(GHG) Acidification,abundance,Certain,6Millenia,1Global,1
+All phases,4,(GHG) Acid,4(GHG) Acid,(GHG) Acidification,catchability,Certain,6Millenia,1Global,1
+All phases,4,(GHG) Acid,4(GHG) Acid,(GHG) Acidification,displacement,Certain,6Millenia,1Global,1
+All phases,4,(GHG) Acid,4(GHG) Acid,(GHG) Acidification,quality,Certain,6Millenia,1Global,1
+All phases,4,(GHG) Erosion,4(GHG) Erosion,(GHG) Coastal erosion,abundance,Certain,6Millenia,1Global,1
+All phases,4,(GHG) Erosion,4(GHG) Erosion,(GHG) Coastal erosion,catchability,Certain,6Millenia,1Global,1
+All phases,4,(GHG) Erosion,4(GHG) Erosion,(GHG) Coastal erosion,quality,Certain,6Millenia,1Global,1
+All phases,4,(GHG) Rise,4(GHG) Rise,(GHG) Sea level rise,abundance,Certain,6Millenia,1Global,1
+All phases,4,(GHG) Rise,4(GHG) Rise,(GHG) Sea level rise,catchability,Certain,6Millenia,1Global,1
+All phases,4,(GHG) Rise,4(GHG) Rise,(GHG) Sea level rise,displacement,Certain,6Millenia,1Global,1
+All phases,4,(GHG) Temp,4(GHG) Temp,(GHG) Temperature change,abundance,Certain,6Millenia,1Global,1
+All phases,4,(GHG) Temp,4(GHG) Temp,(GHG) Temperature change,catchability,Certain,6Millenia,1Global,1
+All phases,4,(GHG) Temp,4(GHG) Temp,(GHG) Temperature change,displacement,Certain,6Millenia,1Global,1
+All phases,4,(GHG) Temp,4(GHG) Temp,(GHG) Temperature change,quality,Certain,6Millenia,1Global,1
